@@ -1,0 +1,42 @@
+*   [33mcommit 1ec4a60dae308fb1101cf4d1f6b23e60d456d84d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m[32m\[m  Merge: 700ab58 d04d73e
+[31m|[m [32m|[m Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Mon Nov 27 14:57:38 2023 -0600
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'rama_1'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit d04d73e6d0024c70e27e105b34c3dba0fdf10c95[m[33m ([m[1;31morigin/rama_1[m[33m, [m[1;32mrama_1[m[33m)[m
+[31m|[m [32m|[m Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Mon Nov 27 14:55:09 2023 -0600
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     02
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 7fdc852553bdda5902e5dc725e54e091f637ac31[m
+[31m|[m [32m|[m Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Mon Nov 27 14:53:33 2023 -0600
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     01
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 542ff9a4d29e6c6d883641ce9dd46237278f2cd6[m
+[31m|[m[31m/[m  Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[31m|[m   Date:   Mon Nov 27 14:42:25 2023 -0600
+[31m|[m   
+[31m|[m       02
+[31m|[m 
+* [33mcommit 700ab585652850993d44cf878b2e39b0b9a4ebdd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[32m|[m Date:   Mon Nov 27 14:31:32 2023 -0600
+[32m|[m 
+[32m|[m     01_rama_1
+[32m|[m 
+* [33mcommit e35070f1144be990889382bff29896a264bc257a[m
+[32m|[m Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+[32m|[m Date:   Mon Nov 27 14:20:02 2023 -0600
+[32m|[m 
+[32m|[m     01
+[32m|[m 
+* [33mcommit 43f30abefb3c6edcbd90a5c1e0e718f7b6425b97[m
+  Author: XAVScode <101161544+XAVScode@users.noreply.github.com>
+  Date:   Mon Nov 27 14:10:58 2023 -0600
+  
+      Create FILE01
